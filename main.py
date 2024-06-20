@@ -167,4 +167,6 @@ if __name__ == '__main__':
 	app = my_page()
 
 
-# TODO:
+# TODO: Select a directory, read all image files from it,
+# view in the dialog, select several by double-clicking,
+# save into one PDF file
